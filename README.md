@@ -1,3 +1,4 @@
+# COVID-19 Data Visualization
 This project creates a simple GUI to visualize the distribution of COVID-19 
 across countries and their corresponding states or regions if any
 
